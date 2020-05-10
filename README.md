@@ -1,5 +1,3 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Clima
 
 ## Description
@@ -14,7 +12,9 @@ Clima is a location-aware weather app. It will find out where you are in the wor
 
 ## Screenshots
 <div align="center">
-<img src="art/ScreenShot1.png" width="400px" />
+<img src="art/ScreenShot1.png" width="200px" />
+<img src="art/ScreenShot2.png" width="200px" />
+<img src="art/ScreenShot3.png" width="200px" />
 </div>
 
 
